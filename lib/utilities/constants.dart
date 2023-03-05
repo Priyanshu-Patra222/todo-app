@@ -40,7 +40,7 @@ TextStyle kContentStyle = GoogleFonts.nunito(
   fontSize: getDeviceWidth(16),
   fontWeight: FontWeight.normal,
 );
-TextStyle kDateTitleStyle = GoogleFonts.roboto(
+TextStyle kDateTimeStyle = GoogleFonts.roboto(
   fontSize: getDeviceWidth(13),
   fontWeight: FontWeight.w500 ,
 );

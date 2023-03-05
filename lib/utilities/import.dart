@@ -15,4 +15,6 @@ export 'package:todo_app/utilities/showSnackBar.dart';
 
 //dependencies
 export 'package:google_fonts/google_fonts.dart';
+export 'package:firebase_core/firebase_core.dart';
+export 'package:todo_app/firebase_options.dart';
 
